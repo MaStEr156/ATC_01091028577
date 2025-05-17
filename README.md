@@ -5,7 +5,7 @@ A full-stack event booking system built with ASP.NET Core 8.0 and React. This sy
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
-- .NET 8.0 SDK
+- .NET 9.0 SDK
 - Node.js (v18 or higher)
 - npm (v9 or higher)
 - SQL Server (Express or Developer edition)
