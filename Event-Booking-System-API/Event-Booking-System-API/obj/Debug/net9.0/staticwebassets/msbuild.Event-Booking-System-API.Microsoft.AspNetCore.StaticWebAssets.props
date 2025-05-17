@@ -1,0 +1,130 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\1aaac347-734d-48d7-b397-2ff92c28fef9_cropped.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Event-Booking-System-API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Event-Booking-System-API</BasePath>
+      <RelativePath>EventsImages/1aaac347-734d-48d7-b397-2ff92c28fef9_cropped.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>yfg2m65hui</Fingerprint>
+      <Integrity>vv24YL9r4HBFfMt57adeQjwrDL0FXp9r41xb30HVdQg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\1aaac347-734d-48d7-b397-2ff92c28fef9_cropped.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\284a364e-d054-4a8f-8749-425fd334ac63_20250413_1724_Free Palestine Poster_simple_compose_01jrqvy59xerkav184188sjcc2.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Event-Booking-System-API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Event-Booking-System-API</BasePath>
+      <RelativePath>EventsImages/284a364e-d054-4a8f-8749-425fd334ac63_20250413_1724_Free Palestine Poster_simple_compose_01jrqvy59xerkav184188sjcc2.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>hwzqvdpdjn</Fingerprint>
+      <Integrity>QdtINpb3t3xew+eK9k9NIiTuXTHCjxGZvyTztAzJc7A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\284a364e-d054-4a8f-8749-425fd334ac63_20250413_1724_Free Palestine Poster_simple_compose_01jrqvy59xerkav184188sjcc2.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\81dd4a86-03c2-4125-a76c-a6f2c1374af0_Rihanna.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Event-Booking-System-API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Event-Booking-System-API</BasePath>
+      <RelativePath>EventsImages/81dd4a86-03c2-4125-a76c-a6f2c1374af0_Rihanna.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>d9b46nfx97</Fingerprint>
+      <Integrity>AcQ+mN65gW12BwbDTEgiDp1xu3tw20YiZ+gOGPkmBUo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\81dd4a86-03c2-4125-a76c-a6f2c1374af0_Rihanna.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\83b6cedc-176b-4565-97bd-d29d4b48f931_LS20250405171223.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Event-Booking-System-API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Event-Booking-System-API</BasePath>
+      <RelativePath>EventsImages/83b6cedc-176b-4565-97bd-d29d4b48f931_LS20250405171223.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0z6p1cnw24</Fingerprint>
+      <Integrity>dE+ALCbE1/bcDud5zL1vNowPaveP7cFG9fNwlUgN9pw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\83b6cedc-176b-4565-97bd-d29d4b48f931_LS20250405171223.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\9370f832-debf-4de9-a87b-87f32967febc_ChatGPT Image Apr 5, 2025, 04_27_43 PM.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Event-Booking-System-API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Event-Booking-System-API</BasePath>
+      <RelativePath>EventsImages/9370f832-debf-4de9-a87b-87f32967febc_ChatGPT Image Apr 5, 2025, 04_27_43 PM.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fgrzh3icuc</Fingerprint>
+      <Integrity>Qc3KaXjnQPSjS++Kr9yj0/zTBDipWmu8ccXxHv19MjE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\9370f832-debf-4de9-a87b-87f32967febc_ChatGPT Image Apr 5, 2025, 04_27_43 PM.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\ba129c35-2ae9-456f-b4ea-2953787f96cd_20250413_1724_Free Palestine Poster_simple_compose_01jrqvy59xerkav184188sjcc2.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Event-Booking-System-API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Event-Booking-System-API</BasePath>
+      <RelativePath>EventsImages/ba129c35-2ae9-456f-b4ea-2953787f96cd_20250413_1724_Free Palestine Poster_simple_compose_01jrqvy59xerkav184188sjcc2.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>hwzqvdpdjn</Fingerprint>
+      <Integrity>QdtINpb3t3xew+eK9k9NIiTuXTHCjxGZvyTztAzJc7A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\ba129c35-2ae9-456f-b4ea-2953787f96cd_20250413_1724_Free Palestine Poster_simple_compose_01jrqvy59xerkav184188sjcc2.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\ec402a06-5739-4f3e-a854-35e850b24c75_ollama sticker.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Event-Booking-System-API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Event-Booking-System-API</BasePath>
+      <RelativePath>EventsImages/ec402a06-5739-4f3e-a854-35e850b24c75_ollama sticker.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jrktsbll9z</Fingerprint>
+      <Integrity>X0a0IHbrMSlsqH+d+3w4kZMm0SoP1LuUR+YCA9Ku7ks=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventsImages\ec402a06-5739-4f3e-a854-35e850b24c75_ollama sticker.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

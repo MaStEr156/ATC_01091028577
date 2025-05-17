@@ -1,0 +1,692 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Persistence\\Migrations\\20250517193837_EditedDeleteBehaviourForEventsAndBooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB-Layer\\Persistence\\Migrations\\20250517193837_EditedDeleteBehaviourForEventsAndBooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\db-layer\\persistence\\entityconfigurations\\bookingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|solutionrelative:db-layer\\persistence\\entityconfigurations\\bookingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\bookingservice\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\bookingservice\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\bookingservice\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\bookingservice\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MaStEr\\AppData\\Local\\SourceServer\\3870e423f5e4f2b0db1771bf2c7841dbfa090e87bea1a129a8fb3ac52bdd2d8b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\TaskAwaiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MaStEr\\AppData\\Local\\SourceServer\\f0201f5323663426dec4277fb2d0d624b00562a5c66be8617c783da05d61b742\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\eventservice\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\eventservice\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\eventservice\\helpers\\eventhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\eventservice\\helpers\\eventhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\db-layer\\repositories\\eventrepo\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|solutionrelative:db-layer\\repositories\\eventrepo\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\eventservice\\dtos\\eventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\eventservice\\dtos\\eventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\eventservice\\mappers\\eventmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\eventservice\\mappers\\eventmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\db-layer\\helpers\\enums\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|solutionrelative:db-layer\\helpers\\enums\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\db-layer\\repositories\\bookingrepo\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|solutionrelative:db-layer\\repositories\\bookingrepo\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\db-layer\\repositories\\bookingrepo\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|solutionrelative:db-layer\\repositories\\bookingrepo\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\db-layer\\persistence\\migrations\\20250516010913_refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|solutionrelative:db-layer\\persistence\\migrations\\20250516010913_refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\authservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\authservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\authservice\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\authservice\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\authservice\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\authservice\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\authservice\\dtos\\refreshtokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\authservice\\dtos\\refreshtokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\authservice\\dtos\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\authservice\\dtos\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\db-layer\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|solutionrelative:db-layer\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\db-layer\\persistence\\migrations\\20250516015238_updaterefreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|solutionrelative:db-layer\\persistence\\migrations\\20250516015238_updaterefreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\db-layer\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|solutionrelative:db-layer\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\db-layer\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|solutionrelative:db-layer\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\authservice\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\authservice\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\authservice\\dtos\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\authservice\\dtos\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\authservice\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\authservice\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\db-layer\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD11D9E-264C-4161-B550-3E36812F7A83}|DB-Layer\\DB-Layer.csproj|solutionrelative:db-layer\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|d:\\projects\\event-booking-system\\event-booking-system-api\\event-booking-system-api\\authservice\\dtos\\updateprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76FB98E-C7DA-491B-B258-BBBF09448A46}|Event-Booking-System-API\\Event-Booking-System-API.csproj|solutionrelative:event-booking-system-api\\authservice\\dtos\\updateprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:03:11.744Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\AuthService.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\AuthService\\AuthService.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\AuthService.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\AuthService\\AuthService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:19:56.593Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\AuthService\\IAuthService.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\IAuthService.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\AuthService\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:19:42.553Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\AuthService\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\AuthService\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:18:44.581Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\RegisterResponse.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\AuthService\\DTOs\\RegisterResponse.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\RegisterResponse.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\AuthService\\DTOs\\RegisterResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:19:21.04Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\AuthService\\DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\AuthService\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:18:56.276Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\AuthService\\DTOs\\LoginResponse.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\LoginResponse.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\AuthService\\DTOs\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:19:06.112Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\Program.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\Program.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\Program.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAnwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:42:37.741Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAIAwwNUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:57:56.813Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\EventService\\EventService.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\EventService\\EventService.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\EventService\\EventService.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\EventService\\EventService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwG0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:44:33.663Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250517193837_EditedDeleteBehaviourForEventsAndBooking.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Persistence\\Migrations\\20250517193837_EditedDeleteBehaviourForEventsAndBooking.cs",
+              "RelativeDocumentMoniker": "DB-Layer\\Persistence\\Migrations\\20250517193837_EditedDeleteBehaviourForEventsAndBooking.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Persistence\\Migrations\\20250517193837_EditedDeleteBehaviourForEventsAndBooking.cs",
+              "RelativeToolTip": "DB-Layer\\Persistence\\Migrations\\20250517193837_EditedDeleteBehaviourForEventsAndBooking.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:38:37.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingConfig.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Persistence\\EntityConfigurations\\BookingConfig.cs",
+              "RelativeDocumentMoniker": "DB-Layer\\Persistence\\EntityConfigurations\\BookingConfig.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Persistence\\EntityConfigurations\\BookingConfig.cs",
+              "RelativeToolTip": "DB-Layer\\Persistence\\EntityConfigurations\\BookingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:37:35.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Repositories\\EventRepo\\EventRepository.cs",
+              "RelativeDocumentMoniker": "DB-Layer\\Repositories\\EventRepo\\EventRepository.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Repositories\\EventRepo\\EventRepository.cs",
+              "RelativeToolTip": "DB-Layer\\Repositories\\EventRepo\\EventRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:55:11.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\EventService\\Helpers\\EventHelper.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\EventService\\Helpers\\EventHelper.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\EventService\\Helpers\\EventHelper.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\EventService\\Helpers\\EventHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:47:52.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventMapper.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\EventService\\Mappers\\EventMapper.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\EventService\\Mappers\\EventMapper.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\EventService\\Mappers\\EventMapper.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\EventService\\Mappers\\EventMapper.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAMwCwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:44:01.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\EventService\\DTOs\\EventRequest.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\EventService\\DTOs\\EventRequest.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\EventService\\DTOs\\EventRequest.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\EventService\\DTOs\\EventRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:43:24.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Helpers\\Enums\\Categories.cs",
+              "RelativeDocumentMoniker": "DB-Layer\\Helpers\\Enums\\Categories.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Helpers\\Enums\\Categories.cs",
+              "RelativeToolTip": "DB-Layer\\Helpers\\Enums\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:11:46.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Repositories\\BookingRepo\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "DB-Layer\\Repositories\\BookingRepo\\BookingRepository.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Repositories\\BookingRepo\\BookingRepository.cs",
+              "RelativeToolTip": "DB-Layer\\Repositories\\BookingRepo\\BookingRepository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:41:50.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Repositories\\BookingRepo\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "DB-Layer\\Repositories\\BookingRepo\\IBookingRepository.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Repositories\\BookingRepo\\IBookingRepository.cs",
+              "RelativeToolTip": "DB-Layer\\Repositories\\BookingRepo\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:41:36.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\BookingService\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\BookingService\\IBookingService.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\BookingService\\IBookingService.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\BookingService\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:43:31.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\MaStEr\\AppData\\Local\\SourceServer\\f0201f5323663426dec4277fb2d0d624b00562a5c66be8617c783da05d61b742\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs",
+              "ToolTip": "C:\\Users\\MaStEr\\AppData\\Local\\SourceServer\\f0201f5323663426dec4277fb2d0d624b00562a5c66be8617c783da05d61b742\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs",
+              "ViewState": "AgIAAPACAAAAAAAAAAAAAP8CAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:05:36.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\BookingService\\BookingService.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\BookingService\\BookingService.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\BookingService\\BookingService.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\BookingService\\BookingService.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAgwJQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:59:38.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:59:12.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LogoutRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\LogoutRequest.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\AuthService\\DTOs\\LogoutRequest.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\LogoutRequest.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\AuthService\\DTOs\\LogoutRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:46:58.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RefreshTokenResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\RefreshTokenResponse.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\AuthService\\DTOs\\RefreshTokenResponse.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\RefreshTokenResponse.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\AuthService\\DTOs\\RefreshTokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T18:58:53.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskAwaiter.cs",
+              "DocumentMoniker": "C:\\Users\\MaStEr\\AppData\\Local\\SourceServer\\3870e423f5e4f2b0db1771bf2c7841dbfa090e87bea1a129a8fb3ac52bdd2d8b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\TaskAwaiter.cs",
+              "ToolTip": "C:\\Users\\MaStEr\\AppData\\Local\\SourceServer\\3870e423f5e4f2b0db1771bf2c7841dbfa090e87bea1a129a8fb3ac52bdd2d8b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\TaskAwaiter.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAAAE8BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T18:57:45.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250516015238_UpdateRefreshTokenConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Persistence\\Migrations\\20250516015238_UpdateRefreshTokenConfiguration.cs",
+              "RelativeDocumentMoniker": "DB-Layer\\Persistence\\Migrations\\20250516015238_UpdateRefreshTokenConfiguration.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Persistence\\Migrations\\20250516015238_UpdateRefreshTokenConfiguration.cs",
+              "RelativeToolTip": "DB-Layer\\Persistence\\Migrations\\20250516015238_UpdateRefreshTokenConfiguration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:54:41.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "DB-Layer\\ServiceExtensions.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\ServiceExtensions.cs",
+              "RelativeToolTip": "DB-Layer\\ServiceExtensions.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:42:26.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\ServiceExtensions.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\ServiceExtensions.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:34:33.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\Controllers\\EventController.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:34:21.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "DB-Layer\\Entities\\AppUser.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Entities\\AppUser.cs",
+              "RelativeToolTip": "DB-Layer\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:24:04.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\appsettings.json",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\appsettings.json",
+              "RelativeToolTip": "Event-Booking-System-API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T01:16:55.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250516010913_RefreshToken.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Persistence\\Migrations\\20250516010913_RefreshToken.cs",
+              "RelativeDocumentMoniker": "DB-Layer\\Persistence\\Migrations\\20250516010913_RefreshToken.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Persistence\\Migrations\\20250516010913_RefreshToken.cs",
+              "RelativeToolTip": "DB-Layer\\Persistence\\Migrations\\20250516010913_RefreshToken.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:09:13.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DB-Layer\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "DB-Layer\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:06:45.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "DB-Layer\\Entities\\RefreshToken.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\DB-Layer\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "DB-Layer\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:06:23.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JWT.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\Helpers\\JWT.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\AuthService\\Helpers\\JWT.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\Helpers\\JWT.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\AuthService\\Helpers\\JWT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:04:38.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateProfileModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\UpdateProfileModel.cs",
+              "RelativeDocumentMoniker": "Event-Booking-System-API\\AuthService\\DTOs\\UpdateProfileModel.cs",
+              "ToolTip": "D:\\Projects\\Event-Booking-System\\Event-Booking-System-API\\Event-Booking-System-API\\AuthService\\DTOs\\UpdateProfileModel.cs",
+              "RelativeToolTip": "Event-Booking-System-API\\AuthService\\DTOs\\UpdateProfileModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:59:34.173Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
