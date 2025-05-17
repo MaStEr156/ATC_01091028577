@@ -26,9 +26,8 @@ cd Event-Booking-System
 ```bash
 cd Event-Booking-System-API
 ```
-```
 
-é. Install Entity Framework Core tools (if not already installed):
+2. Install Entity Framework Core tools (if not already installed):
 ```bash
 dotnet tool install --global dotnet-ef
 ```
