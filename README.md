@@ -16,7 +16,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Event-Booking-System.git
+git clone https://github.com/MaStEr156/ATC_01091028577.git
 cd Event-Booking-System
 ```
 
@@ -120,6 +120,11 @@ Event-Booking-System-Frontend/
 - POST `/api/Auth/Register` - Register a new user
 - POST `/api/Auth/Login` - Login user
 - POST `/api/Auth/RefreshToken` - Refresh JWT token
+- POST `/api/Auth/Update-Profile` - Update User Profile
+- POST `/api/Auth/Assign-Role` - Assign role to a user
+- POST `/api/Auth/Deassign-Role` - Deassign user a role
+- GET `/api/Auth/Get-User` - Gets User information
+- POST `/api/Auth/Logout` - Logs out User
 
 ### Events
 - GET `/api/Event/GetAllEvents` - Get all events
